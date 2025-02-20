@@ -20,10 +20,7 @@ SET_ONE LD ONE
         MM RES
         JP HALT
 
-HALT    LD RES
-        DV CONS
-        MM RES
-        HM /0000
+HALT   HM /0000
 
 @ /0100
 N       K /0000
