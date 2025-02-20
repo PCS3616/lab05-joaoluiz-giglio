@@ -5,10 +5,10 @@ START   LD N
         MM RES
 
 LOOP    LD N
-        SUB ONE
+        SB ONE
         MM TEMP
         LD N
-        MUL RES
+        ML RES
         MM RES
         LD TEMP 
         MM N
