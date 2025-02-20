@@ -1,3 +1,4 @@
+@ /0000
 LOOP        LD SUM; Carrega o valor da soma ate agora
             MM ADRESS; Salva no endereço desejado
             AD SOMADOR; Soma um valor impar `a soma
