@@ -26,4 +26,4 @@ HALT   HM /0000
 N       K /0000
 RES     K /0001
 TEMP    K /0000
-ONE     K /0004
+ONE     K /0001
