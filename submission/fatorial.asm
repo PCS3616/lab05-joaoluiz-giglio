@@ -20,10 +20,10 @@ SET_ONE LD ONE
         MM RES
         JP HALT
 
-HALT    HM =0
+HALT    HM /0000
 
 @ /0100
-N       K =0
-RES     K =1
-TEMP    K =0
-ONE     K =1
+N       K /0000
+RES     K /0001
+TEMP    K /0000
+ONE     K /0001
